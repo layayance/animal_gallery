@@ -16,7 +16,7 @@ L'interface est épurée avec un **dashboard interactif** qui affiche l'image ac
 
 ### 1️⃣ Cloner le projet
 ```sh
-git clone https://github.com/AbdeDev/Animal-gallery.git
+git clone https://github.com/layayance/animal_gallery.git
 cd animal-gallery
 ```
 
